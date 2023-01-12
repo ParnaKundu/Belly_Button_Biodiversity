@@ -1,0 +1,15 @@
+body {
+    color: Black;
+    background-image: linear-gradient(rgb(45, 89, 92), white);
+}
+
+.jumbotron {
+    background-image: url("bacteria2.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    color: rgb(248, 5, 248);
+}
+
+.article {
+    color: whitesmoke
+}
