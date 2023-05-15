@@ -13,3 +13,4 @@ There are three charts :-
 ![Bar Chart and Gauge Chart](Images/Charts1.png)
 
 3.  A Bubble Chart that shows all the different bacterial cultures for the test subject. The size of the bubble depends on the count of the bacteria.
+![Bubble Chart](Images/Charts2.png)
