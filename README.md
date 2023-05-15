@@ -10,4 +10,6 @@ There are three charts :-
 
 2.  A Gauge Chart that shows the Belly Button washing frequency
 
+![Bar Chart and Gauge Chart](Images/Charts1.png)
+
 3.  A Bubble Chart that shows all the different bacterial cultures for the test subject. The size of the bubble depends on the count of the bacteria.
